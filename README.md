@@ -1,5 +1,3 @@
-   #Portfolio
-   <br>
-   <a href="https://ank-portfolio.vercel.app/">Click Here</a>
-   <br>
+<a href="https://ank-portfolio.vercel.app/">Portfolio</a>
+<br>
 A portfolio website which is compilation of materials that exemplifies my skills, qualifications, education and hobbies.
